@@ -1,4 +1,4 @@
-<h1 align="center">João</h1>
+<h1 align="center">João Guilherme</h1>
 
 <p align="center">
   Engenharia da Computação • Direito • Technology Builder
