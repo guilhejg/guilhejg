@@ -1,156 +1,120 @@
+````md
 <h1 align="center">João</h1>
+
 <p align="center">
-  <b>Estudante de Engenharia da Computação • Direito • Builder de tecnologia</b>
+  Engenharia da Computação • Direito • Technology Builder
 </p>
 
 <p align="center">
-  Curioso por sistemas, infraestrutura, automação, desenvolvimento e projetos que saem do papel.
+  <i>Building systems, learning deeply, creating real things.</i><br>
+  <i>Construindo sistemas, aprendendo profundamente e criando coisas reais.</i>
 </p>
 
 ---
 
-## Sobre mim
+## 🧠 About Me / Sobre Mim
 
-Eu gosto de entender como as coisas funcionam por dentro.
+🇧🇷  
+Estudante de Engenharia da Computação e Direito, apaixonado por tecnologia, infraestrutura, servidores, programação e projetos grandes.
 
-Não só “usar tecnologia”, mas construir, organizar e melhorar sistemas de verdade: rede, servidor, app, site, jogo, automação, dashboard, ferramenta útil. Gosto da sensação de transformar uma ideia em algo funcional.
-
-Tenho uma mentalidade bem prática: aprender, testar, errar, corrigir e evoluir. Prefiro progresso real a só acumular teoria.
-
----
-
-## Formações
-
-- **Engenharia da Computação**
-- **Direito**
-
-Também venho me preparando em áreas específicas como:
-- **AFA**
-- **ANAC PP**
-- estudos voltados para lógica, física, programação e raciocínio técnico
+🇺🇸  
+Computer Engineering and Law student passionate about technology, infrastructure, servers, programming and large-scale projects.
 
 ---
 
-## O que já estou aprendendo
+## ⚙️ Tech Stack
 
-### Linguagens e fundamentos
-- **Python**
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **SQL**
-- **C++**
-- **Java**
-- **C#**
-- **Lua**
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
+![C++](https://img.shields.io/badge/C++-111?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk)
+![C#](https://img.shields.io/badge/C%23-111?style=for-the-badge&logo=csharp)
+![Lua](https://img.shields.io/badge/Lua-111?style=for-the-badge&logo=lua)
+![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=mysql)
 
-### Web e interface
-- **React**
-- **Node.js**
-- **p5.js**
-- **UI/UX Design**
+### 🌐 Web
+![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
 
-### Dados e inteligência
-- **NumPy**
-- **Pandas**
-- **Matplotlib**
-- **Machine Learning**
-- **Gen AI**
+### 📊 Data & AI
+![Pandas](https://img.shields.io/badge/Pandas-111?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-111?style=for-the-badge&logo=numpy)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-111?style=for-the-badge&logo=tensorflow)
 
-### Ferramentas e base profissional
-- **Command Line**
-- **Git & GitHub**
-- **GitHub Copilot**
-- **Data Structures & Algorithms**
-
-### Game development
-- **Phaser**
-- **Lua**
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux)
 
 ---
 
-## O que eu quero aprender mais a fundo
+## 🖥️ Infrastructure / Infraestrutura
 
-- **Estruturas de dados e algoritmos**
-- **C++ forte de verdade**
-- **Desenvolvimento de sistemas completos**
-- **Arquitetura de software**
-- **Redes e infraestrutura**
-- **Banco de dados com mais profundidade**
-- **Desenvolvimento de apps**
-- **Game development**
-- **Automação**
-- **Cloud / servidores / deploy**
-- **IA aplicada em projetos reais**
+🇧🇷  
+Construindo um home lab com servidores Dell Optiplex, rack, switches gerenciáveis e infraestrutura de rede própria.
+
+🇺🇸  
+Building a home lab with Dell Optiplex servers, rack setup, managed switches and custom network infrastructure.
 
 ---
 
-## O que eu gosto de construir
+## 🚀 Interests / Interesses
 
-- sistemas úteis
-- apps
-- páginas web
-- ferramentas de estudo
-- automações
-- projetos de jogo
-- painéis e dashboards
-- ambientes de servidor
-- coisas que resolvem problema de verdade
-
----
-
-## Minha vibe técnica
-
-Eu me interesso muito por:
-- organização de infraestrutura
-- computadores
-- servidores
-- rede cabeada
-- home lab
-- desempenho
-- estrutura por trás dos sistemas
-
-Gosto da ideia de um perfil mais completo: alguém que entende tanto o software quanto a base técnica que sustenta tudo.
+- Systems Development
+- Infrastructure
+- Game Development
+- Automation
+- AI
+- Networking
+- Backend
+- Cybersecurity
+- Servers
+- UI/UX
+- Large Projects
 
 ---
 
-## Objetivo
+## 📚 Currently Learning / Aprendendo
 
-Quero virar alguém que não só estuda tecnologia, mas **constrói tecnologia**.
-
-Alguém que consegue pegar uma ideia e transformar em projeto real, com qualidade, lógica e propósito.
-
----
-
-## Status atual
-
-- Aprendendo com consistência
-- Construindo base sólida
-- Evoluindo em programação
-- Pensando em projetos maiores
-- Focando em virar bom de verdade, não só “familiarizado”
+```python
+while(alive):
+    learn()
+    build()
+    improve()
+````
 
 ---
 
-## Em andamento
+## 🎯 Goals / Objetivos
 
-Atualmente meu foco está em:
-- fortalecer a base em programação
-- estudar com prática
-- criar projetos reais
-- construir portfólio
-- me tornar mais técnico e mais independente
+🇧🇷
+Criar projetos reais, desenvolver sistemas completos e me tornar um engenheiro capaz de transformar ideias em tecnologia funcional.
 
----
-
-## Frase que me representa
-
-> “Não quero só saber sobre tecnologia. Quero construir coisas que funcionem.”
+🇺🇸
+Build real projects, develop complete systems and become an engineer capable of turning ideas into functional technology.
 
 ---
 
-## Contato
+## 📈 GitHub Stats
 
 <p align="center">
-  <i>Em construção.</i>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
 </p>
+
+---
+
+## 🌱 Philosophy / Filosofia
+
+> “I don't want to only study technology. I want to build it.”
+
+> “Eu não quero apenas estudar tecnologia. Quero construí-la.”
+
+---
+
+```
+```
