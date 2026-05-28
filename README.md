@@ -90,10 +90,6 @@ Criar projetos reais, desenvolver sistemas completos e me tornar um engenheiro c
 Build real projects, develop complete systems and become an engineer capable of turning ideas into functional technology.
 
 ---
-## 🚀 Featured Projects
-
-[GrowBetter](https://github.com/guilhejg/GrowBetter)
----
 
 ## 🌱 Philosophy / Filosofia
 
