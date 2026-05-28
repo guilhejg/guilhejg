@@ -89,7 +89,16 @@ Criar projetos reais, desenvolver sistemas completos e me tornar um engenheiro c
 🇺🇸
 Build real projects, develop complete systems and become an engineer capable of turning ideas into functional technology.
 
+---
+## 🚀 Featured Projects
 
+<a href="https://github.com/guilhejg/GrowBetter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhejg&repo=GrowBetter&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/guilhejg/MyLearning">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhejg&repo=MyLearning&theme=tokyonight" />
+</a>
 ---
 
 ## 🌱 Philosophy / Filosofia
