@@ -55,19 +55,18 @@ Building a home lab with Dell Optiplex servers, rack setup, managed switches and
 
 ---
 
-## 🚀 Interests / Interesses
+## 🎯 Current Focus
 
-* Systems Development
-* Infrastructure
-* Game Development
-* Automation
-* AI
-* Networking
-* Backend
-* Cybersecurity
-* Servers
-* UI/UX
-* Large Projects
+![Computer Engineering](https://img.shields.io/badge/Computer_Engineering-111?style=for-the-badge&logo=academia)
+![Infrastructure](https://img.shields.io/badge/Home_Lab-111?style=for-the-badge&logo=proxmox)
+![Networking](https://img.shields.io/badge/Networking-111?style=for-the-badge&logo=cisco)
+![Programming](https://img.shields.io/badge/Programming-111?style=for-the-badge&logo=visualstudiocode)
+![Game Development](https://img.shields.io/badge/Game_Development-111?style=for-the-badge&logo=unity)
+![App Development](https://img.shields.io/badge/iOS_Development-111?style=for-the-badge&logo=swift)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-111?style=for-the-badge&logo=openai)
+![Aviation](https://img.shields.io/badge/Aviation-111?style=for-the-badge&logo=americanairlines)
+![Servers](https://img.shields.io/badge/Servers-111?style=for-the-badge&logo=dell)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111?style=for-the-badge&logo=hackthebox)
 
 ---
 
