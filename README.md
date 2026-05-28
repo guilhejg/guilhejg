@@ -32,22 +32,13 @@ Computer Engineering and Law student passionate about technology, infrastructure
 ![C#](https://img.shields.io/badge/C%23-111?style=for-the-badge\&logo=csharp)
 ![Lua](https://img.shields.io/badge/Lua-111?style=for-the-badge\&logo=lua)
 ![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge\&logo=mysql)
-
-### 🌐 Web
-
 ![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge\&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge\&logo=css3)
 ![React](https://img.shields.io/badge/React-111?style=for-the-badge\&logo=react)
 ![NodeJS](https://img.shields.io/badge/Node.js-111?style=for-the-badge\&logo=node.js)
-
-### 📊 Data & AI
-
 ![Pandas](https://img.shields.io/badge/Pandas-111?style=for-the-badge\&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-111?style=for-the-badge\&logo=numpy)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-111?style=for-the-badge\&logo=tensorflow)
-
-### 🛠️ Tools
-
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge\&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge\&logo=linux)
