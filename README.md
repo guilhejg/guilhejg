@@ -92,13 +92,7 @@ Build real projects, develop complete systems and become an engineer capable of 
 ---
 ## 🚀 Featured Projects
 
-<a href="https://github.com/guilhejg/GrowBetter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhejg&repo=GrowBetter&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/guilhejg/MyLearning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhejg&repo=MyLearning&theme=tokyonight" />
-</a>
+[GrowBetter](https://github.com/guilhejg/GrowBetter)
 ---
 
 ## 🌱 Philosophy / Filosofia
