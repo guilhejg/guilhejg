@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="git-assets/banner.png" width="1000">
-</p>
-
 <h1 align="center">João Guilherme</h1>
 
 <p align="center">
