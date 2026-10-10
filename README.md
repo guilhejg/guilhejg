@@ -21,6 +21,33 @@ Computer Engineering and Law student passionate about technology, infrastructure
 
 ---
 
+## 🏢 3C Studio
+
+🇧🇷
+Fundador da [**3C Studio**](https://github.com/3c-studio), estúdio de produtos digitais. Os produtos ficam em repositórios privados da organização.
+
+🇺🇸
+Founder of [**3C Studio**](https://github.com/3c-studio), a digital products studio. Products live in the organization's private repositories.
+
+| Produto / Product | O que é / What it is |
+|---|---|
+| **[Normalizaí](https://normalizai.com.br)** | Formata trabalhos acadêmicos (.docx) nas normas da ABNT em segundos, sem mudar uma palavra do texto. Python, LibreOffice, Flask. |
+| **Gearhead** *(em desenvolvimento)* | App para a cultura automotiva brasileira: rolês, garagem e encontros. |
+| **Modo Caverna** *(em desenvolvimento)* | Ferramenta de foco e bem-estar digital. |
+
+---
+
+## 🛠️ Projetos abertos / Open projects
+
+| Projeto | Descrição |
+|---|---|
+| [**Arch95**](https://github.com/guilhejg/Arch95) | Ambiente XFCE inspirado no Windows 95 para Arch Linux, feito para ThinkPads. |
+| [**GrowBetter**](https://github.com/guilhejg/GrowBetter) | App de hábitos para iPhone e Apple Watch com um jardim que cresce (SwiftUI, SwiftData). |
+| [**MyLearning**](https://github.com/guilhejg/MyLearning) | Diário de estudos: C, Python, Swift, Linux e scripts do meu Arch. |
+| [**Cornerstone**](https://github.com/guilhejg/MC-CornerStone) | Servidor e lore de Minecraft focado em construção de mundo e política. |
+
+---
+
 ## ⚙️ Tech Stack
 
 ### 💻 Languages
