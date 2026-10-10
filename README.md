@@ -1,7 +1,12 @@
 <h1 align="center">João Guilherme</h1>
 
 <p align="center">
-  Engenharia da Computação • Direito • Technology Builder
+  Engenharia da Computação • Direito • Fundador da <a href="https://github.com/3c-studio"><b>3C Studio</b></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/3c-studio"><img src="https://img.shields.io/badge/3C_Studio-Produtos_digitais-111?style=for-the-badge&logo=github" alt="3C Studio"></a>
+  <a href="https://normalizai.com.br"><img src="https://img.shields.io/badge/Normaliza%C3%AD-ABNT_em_segundos-111?style=for-the-badge&logo=googledocs" alt="Normalizaí"></a>
 </p>
 
 <p align="center">
